@@ -1,0 +1,4 @@
+http://www.lfd.uci.edu/~gohlke/pythonlibs
+CP35 and win_amd64 represents python3.5,64 bits, you should select corresponding files.
+put the packages in the sys file when it is been download. 
+type "python -m pip install + package's name" at  the command interpreter.
